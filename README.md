@@ -1,1 +1,3 @@
-# plexus-email-signature-generator
+# Email Signature Generator
+
+Jekyll based Email Signature Generator.
