@@ -1,12 +1,12 @@
-business cards,email signature,nome,email,mobile,linkedin (business cards only),photo
-yes,yes,David Pires,david@plexus.pt,(+351) 912 295 084,/davidluispires,david-pires
-yes,yes,"""estagiario""",,,,estagiario
-yes,yes,Francisco Delfino,francisco.delfino@plexus.pt,(+351) 965 655 768,,francisco-delfino
-yes,yes,João Pires,joao.pires@plexus.pt,(+351) 964 068 330,,joao-pires
-yes,yes,José Carrerira,,,,jose-carreira
-yes,yes,Lili Vierira,lili.vieira@plexus.pt,(+351) 269 870 300,,lili-vieira
-yes,yes,Liliana Silva,liliana.silva@plexus.pt,(+351) 269 870 301,,liliana-silva
-yes,yes,Luis Gaio,luis.gaio@plexus.pt,(+351) 934 207 899,,luis-gaio
-yes,yes,Pedro Costa,pedro.costa@plexus.pt,(+351) 910 203 583,,pedro-costa
-yes,yes,Pedro Ramos,pedro.ramos@plexus.pt,(+351) 939 320 861,,pedro-ramos
-yes,yes,Pedro Teixeira,pedro.teixeira@plexus.pt,(+351) 930 482 254,/jpedroteixeira,pedro-teixeira
+business cards,email signature,nome,email,mobile,linkedin (business cards only)
+yes,yes,David Pires,david@plexus.pt,(+351) 912 295 084,/davidluispires
+yes,yes,"""estagiario""",,,
+yes,yes,Francisco Delfino,francisco.delfino@plexus.pt,(+351) 965 655 768,
+yes,yes,João Pires,joao.pires@plexus.pt,(+351) 964 068 330,
+yes,yes,José Carreira,,,
+yes,yes,Lili Vieira,lili.vieira@plexus.pt,(+351) 269 870 300,
+yes,yes,Liliana Silva,liliana.silva@plexus.pt,(+351) 269 870 301,
+yes,yes,Luis Gaio,luis.gaio@plexus.pt,(+351) 934 207 899,
+yes,yes,Pedro Costa,pedro.costa@plexus.pt,(+351) 910 203 583,
+yes,yes,Pedro Ramos,pedro.ramos@plexus.pt,(+351) 939 320 861,
+yes,yes,Pedro Teixeira,pedro.teixeira@plexus.pt,(+351) 930 482 254,/jpedroteixeira
