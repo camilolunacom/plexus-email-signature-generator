@@ -8,3 +8,5 @@ page_gen:
     template: signature
     name: nome
     dir: signatures
+    
+exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
