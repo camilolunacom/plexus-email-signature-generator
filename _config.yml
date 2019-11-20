@@ -9,4 +9,8 @@ page_gen:
     name: nome
     dir: signatures
     
-exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
