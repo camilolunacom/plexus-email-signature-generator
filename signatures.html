@@ -6,7 +6,7 @@ layout: default
 <h1>Assinaturas Plexus</h1>
 <ul>
 {% for person in site.data.people %}
-    <li><a href="{{ person.nome | slugify: "latin" }}.html">{{ person.nome }}</a></li>
+    <li><a href="/signatures/{{ person.nome | slugify: "latin" }}.html">{{ person.nome }}</a></li>
 {% endfor %}
 </ul>
 <p>Built by WEbrand Agency</p>
