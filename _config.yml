@@ -7,10 +7,11 @@ page_gen:
     data: people
     template: signature
     name: nome
-    dir: signatures
+    dir: plexus
     
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
   - vendor
+  - script
